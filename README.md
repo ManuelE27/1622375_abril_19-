@@ -14,3 +14,9 @@ echo $((2**4))
 export oper1=$((2**4)) | echo $oper1
 
 ``` 
+
+-Ejercico número 3 
+```
+ps -A | tail -n +2 | wc -l 
+
+```
